@@ -26,6 +26,7 @@ git clone https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds.git ~/.dotf
 
 ln -s ~/.dotfiles/.zshrc ~/.zshrc
 ln -s ~/.dotfiles/.gitconfig ~/.gitconfig
+ln -s ~/.dotfiles/.tmux.conf ~/.tmux.conf
 ```
 
 
